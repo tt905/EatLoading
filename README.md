@@ -1,4 +1,11 @@
 # EatLoading
 android eat loading
 
-## 一个加载动画
+## Like below
+
+![](https://github.com/tt905/EatLoading/blob/master/img/eat.png)
+
+and 
+
+![](https://github.com/tt905/EatLoading/blob/master/img/eat2.png)
+
